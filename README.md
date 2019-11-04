@@ -1,1 +1,1 @@
-# bootcampxiii_django_for_microservices
+# bootcampxiii-django-for-beginner
